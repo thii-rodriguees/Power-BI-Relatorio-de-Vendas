@@ -15,5 +15,5 @@ seguem abaixo algumas das funções utilizadas no projeto.
 ## Conclusão 
 - ficará a critério da necessidade da informação, ou seja, os dados estão disponíveis simutâneamente para a visualização seja ela feita como um todo ou seja ela segmentada, por vendedor, por produto ou até mesmo por data. 
 
-Para maiores informações o Dash pode ser visualizado a partir do link abaixo: 
+DASHBOARD - Para maiores informações, ou duvidas pode-se acessar o dash, a partir do link abaixo.
 https://app.powerbi.com/groups/me/reports/59459a2e-7cd1-4f2b-a30b-6a843cf26807/ReportSection8e01b3747e36c8005d73
