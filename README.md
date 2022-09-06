@@ -10,7 +10,7 @@ seguem abaixo algumas das funções utilizadas no projeto.
 - All
 - Switch
 - Além  dessas, também usamos e criamos uma tabela calendário utilizando uma de suas diversas formas de criação, a função CALENDARAUTO()
--
+
 
 ## Conclusão 
 - ficará a critério da necessidade da informação, ou seja, os dados estão disponíveis simutâneamente para a visualização seja ela feita como um todo ou seja ela segmentada, por vendedor, por produto ou até mesmo por data. 
